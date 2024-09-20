@@ -1,0 +1,22 @@
+[
+  {
+    "email": "john.doe@example.com",
+    "commentary": "Great experience with Vue.js, strong understanding of the `script setup` syntax. Impressive portfolio with several well-documented projects."
+  },
+  {
+    "email": "jane.smith@example.com",
+    "commentary": "Solid front-end skills and deep knowledge of Vue Router and Vuex. Demonstrated ability to work with Firebase and RESTful APIs."
+  },
+  {
+    "email": "mark.jones@example.com",
+    "commentary": "Experience with Composition API is evident, but would love to see more contributions to open-source Vue libraries."
+  },
+  {
+    "email": "emma.brown@example.com",
+    "commentary": "The resume highlights strong problem-solving skills and experience with modern build tools like Vite and Webpack."
+  },
+  {
+    "email": "lucas.white@example.com",
+    "commentary": "Good mix of Vue.js and TypeScript. Would like to see more examples of testing using tools like Jest or Cypress."
+  }
+]
